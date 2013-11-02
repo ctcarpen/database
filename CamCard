@@ -1,0 +1,65 @@
+BEGIN:VCARD
+VERSION:2.1
+N;CHARSET=utf-8:Evans;Scott R.;;;
+FN;CHARSET=utf-8:Scott R. Evans
+TEL;WORK:4129202308
+TEL;WORK;FAX:4129202309
+ADR;WORK;CHARSET=utf-8:;;P..O. Box 44272;Pittsburgh;Pennsylvania;15205;USA
+ORG;PREF;WORK;CHARSET=utf-8:E1raiaas Pqalygraph Services, Inc.;;Polygraph Examiner
+TITLE;CHARSET=utf-8:Polygraph Examiner
+ORG;WORK;CHARSET=utf-8:Cxiwaimag, Civil, Domestic, Pre-Employment;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:2.1
+N;CHARSET=utf-8:Doherty;Iohn E.;;;
+FN;CHARSET=utf-8:Iohn E. Doherty
+TEL;WORK:412391977001
+TEL;WORK:4123919780
+ADR;WORK;CHARSET=utf-8:;;808 Grant Building;Pittsburgh;Pennsylvania;15219;USA
+ADR;WORK;CHARSET=utf-8:;;888/GCL-6006 Toll Free;;;;
+ORG;PREF;WORK;CHARSET=utf-8:GILARD1 COOPER LOMUPO;;Attorney At Law
+TITLE;CHARSET=utf-8:Attorney At Law
+ORG;WORK;CHARSET=utf-8:;;ATTORNEYS AT LAW
+TITLE;CHARSET=utf-8:ATTORNEYS AT LAW
+END:VCARD
+
+BEGIN:VCARD
+VERSION:2.1
+N;CHARSET=utf-8:;David J. Shrager;;;
+FN;CHARSET=utf-8:David J. Shrager
+TEL;CELL:4129692540
+TEL;WORK:4122616198
+TEL;WORK:5296260
+TEL;WORK;FAX:4127653230
+ADR;WORK;CHARSET=utf-8:;;617 Frick Building 437 Grant Street;Pittsburgh;Pennsylvania;15219;USA
+ORG;PREF;WORK;CHARSET=utf-8:;;Attorney at Law
+TITLE;CHARSET=utf-8:Attorney at Law
+EMAIL;WORK:david@shragerdefense.com
+URL;WORK:www.shragerdefense.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:2.1
+N;CHARSET=utf-8:Tomasic;Timothy N.;;;
+FN;CHARSET=utf-8:Timothy N. Tomasic
+TEL;WORK:4126082088
+TEL;WORK;FAX:4122242615
+ADR;WORK;CHARSET=utf-8:;;E_awyers Building 428 Forbes Ave. Suite 165;Pittsburgh;Pennsylvania;205126;USA
+ORG;PREF;WORK;CHARSET=utf-8:;;Attorney at Law
+TITLE;CHARSET=utf-8:Attorney at Law
+EMAIL;WORK:tomasiclegal@gmail.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:2.1
+N;CHARSET=utf-8:Jr;William J. F4aggsns;;;
+FN;CHARSET=utf-8:William J. F4aggsns Jr
+TEL;WORK:8146234855
+TEL;WORK;FAX:8146234271
+ADR;WORK;CHARSET=utf-8:;;;Bedford County;Pennsylvania;;USA
+ADR;WORK;CHARSET=utf-8:;;200 S. Juliana Street;Bedford;Pennsylvania;15522;USA
+ORG;PREF;WORK;CHARSET=utf-8:Office Of The District Attorney;;District Attorney
+TITLE;CHARSET=utf-8:District Attorney
+EMAIL;WORK:higginslaw@earthlink.net
+END:VCARD
